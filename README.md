@@ -41,4 +41,7 @@ me.say_hi()
     <a href="https://zyke-spotify.vercel.app/api/song/?opened">
         <img src="https://zyke-spotify.vercel.app/api/song" width="341" height="571" alt="Now Playing">
     </a>
-</div># zyndly
+</div>
+
+inspired by
+- [Jvillegasd](https://github.com/Jvillegasd/Jvillegasd)

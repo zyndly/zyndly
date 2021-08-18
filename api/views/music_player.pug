@@ -1,0 +1,121 @@
+svg(width = "341" height = "571" fill="none" xmlns = "http://www.w3.org/2000/svg")
+  foreignObject(x = "0" y = "0" width = "341" height = "571")
+    div(xmlns = "http://www.w3.org/1999/xhtml")
+      style.
+
+        #player {
+          /* Animation CSS properties */
+          animation: appear 300ms ease-out forwards;
+
+          /* Component CSS properties */
+          font-family: "BlinkMacSystemFont", "Segoe UI",  Helvetica, Arial, sans-serif;
+          width: 341px;
+          height: 571px;
+          background-color: #14213D;
+          border-radius: 67px;
+          opacity: 0.8;
+          position: relative;
+        }
+        
+        #timeline_base {
+          position: absolute; 
+          border: 2px solid rgba(229, 229, 229, 1);
+          width: 290px;
+          height: 290px;
+          margin-top: 47px;
+          margin-left: 21px;
+          border-radius: 50%;
+        }
+        
+        #svg_embedder {
+          width: 341px;
+          height: 571px;
+        }
+
+        #timeline_animated {
+          transform: rotate(-90deg); /*Rotate the svg affect children tags and their properties*/
+          position: absolute !important;
+          left: -80px;
+          top: -30px;
+          stroke-dasharray: 917; /* (2PI * 146px) */
+          stroke-dashoffset: 917;
+        }
+
+        #img_cropper {
+          position: absolute;
+          top: 73px;
+          left: 50px;
+          width: 240px;
+          height: 240px;
+          overflow: hidden;
+          border-radius: 50%;
+        }
+
+        #song_img {
+          height: 300px;
+          width: 300px;
+        }
+
+        #song_info {
+          width: 341px;
+          height: 171px;
+          background-color: #CBD4C2;
+          border-radius: 60px 60px 67px 67px;
+          position: absolute;
+          bottom: 0px;
+        }
+
+        #artist {
+          text-align: center;
+          margin-top: 50px;
+        }
+        
+        #artist_name,
+        #song_name {
+          margin: 0;
+        }
+
+        #song_name {
+          font-size: 25px;
+          color: #283618;
+        }
+
+        #artist_name {
+          font-size:20px;
+          margin-top: 1px;
+          color: rgba(96,108,56, 0.85);
+        }
+
+        .paused {
+          animation-play-state: paused !important;
+        }
+
+        @keyframes appear {
+          from {
+            opacity: 0;
+            transform: scale(0.6);
+          }
+          to {
+            opacity: 0.8;
+            transform: scale(1);
+          }
+        }
+
+        @keyframes progress {
+          to {
+            stroke-dashoffset: 0;
+          }
+        }
+      
+      div(id="player")
+        div(id="img_cropper")
+          div(id="song_img" style = "background-image: url(" + image_link + ");")
+        div(id="timeline_base")
+        div(id="svg_embedder" xmlns="http://www.w3.org/1999/xhtml")
+          svg(id="timeline_animated" height="300", width="500" xmlns = "http://www.w3.org/2000/svg" style = "" + animation_delay + "" class = "" + paused + "")
+            circle(cx="176", cy="150", r="146", stroke="#CBD4C2", stroke-width="9", fill="none")
+
+        div(id="song_info")
+          div(id="artist")
+            h2(id = "song_name") #{title}
+            h3(id = "artist_name") #{artist}

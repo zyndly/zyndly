@@ -6,8 +6,7 @@
 
 
 ```python
-#!/usr/bin/python
-# -*- coding: utf-8 -*-
+#Always;AllWays
 
 
 class aspiringSoftwareEngineer:

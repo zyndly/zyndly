@@ -35,11 +35,3 @@ me.say_hi()
 ## 💻 Communitiy I am in
 - [CodeAndCoffee](https://discord.link/codeandcoffee)
 
-## 🎵 Spotify status
-
-<a href="https://zyke-spotify.vercel.app/api/song/?opened">
-  <img src="https://zyke-spotify.vercel.app/api/song" width="341" height="571" alt="Now Playing">
-</a>
-
-inspired by
-- [Jvillegasd](https://github.com/Jvillegasd/Jvillegasd)

@@ -32,7 +32,7 @@ me.say_hi()
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
 ![](https://img.shields.io/badge/Tools-VB.NET-informational?style=flat&logo=vb.net&logoColor=white&color=6aa6f8)
 
-## 💻 Communitiy im in
+## 💻 Communitiy I am in
 - [CodeAndCoffee](https://discord.link/codeandcoffee)
 
 ## 🎵 Spotify status

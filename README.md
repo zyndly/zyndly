@@ -52,7 +52,7 @@ me.say_hi()
   <code><img title=".NetCore" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/dotnetcore.svg"></code>
   <code><img title="PostgreSQL" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/postgresql.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/zyndly/blob/main/images/visualstudio.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/visualstudio.png"></code>
 
 </p>
 <hr>

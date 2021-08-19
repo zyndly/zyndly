@@ -8,9 +8,9 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/zyndlyy/" title="LinkedIn Profile"><img width="22" src="https://github.com/zyndly/zyndly/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="https://github.com/zyndly/zyndly/master/images/instagram.svg"> Instagram</a></code>
-  <code><a href="https://discord.link/codeandcoffee" title="Discord Profile"><img width="22" src="https://github.com/zyndly/zyndly/master/images/discord.svg"> Discord</a></code>
+    <a href="https://www.linkedin.com/in/zyndlyy/" title="LinkedIn Profile"><img width="22" src="https://github.com/zyndly/zyndly/main/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.instagram.com/zyndlyy/" title="Instagram Profile"><img width="22" src="https://github.com/zyndly/zyndly/main/images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://discord.link/codeandcoffee" title="Discord Profile"><img width="22" src="https://github.com/zyndly/zyndly/main/images/discord.svg"> Discord</a></code>
 </h5>
 
 
@@ -41,18 +41,18 @@ me.say_hi()
 <br>
 <p align="center">
   
-  <code><img title="C++" height="25" src="https://github.com/zyndly/zyndly/master/images/cpp.svg"></code>
-  <code><img title="Python" height="25" src="https://github.com/zyndly/zyndly/master/images/python-original.svg"></code>
-  <code><img title="Problem Solving" height="25" src="https://github.com/zyndly/zyndly/master/images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="https://github.com/zyndly/zyndly/master/images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="https://github.com/zyndly/zyndly/master/images/css.svg"></code>
-  <code><img title="SASS" height="25" src="https://github.com/zyndly/zyndly/master/images/sass.svg"></code>
-  <code><img title="Git" height="25" src="https://github.com/zyndly/zyndly/master/images/git-original.svg"></code>
-  <code><img title="GitHub" height="25" src="https://github.com/zyndly/zyndly/master/images/github.svg"></code>
-  <code><img title=".NetCore" height="25" src="https://github.com/zyndly/zyndly/master/images/dotnetcore.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="https://github.com/zyndly/zyndly/master/images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="https://github.com/zyndly/zyndly/master/images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/zyndly/zyndly/master/images/visualstudio.png"></code>
+  <code><img title="C++" height="25" src="https://github.com/zyndly/zyndly/mainimages/cpp.svg"></code>
+  <code><img title="Python" height="25" src="https://github.com/zyndly/zyndly/main/images/python-original.svg"></code>
+  <code><img title="Problem Solving" height="25" src="https://github.com/zyndly/zyndly/main/images/problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="https://github.com/zyndly/zyndly/main/images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="https://github.com/zyndly/zyndly/main/images/css.svg"></code>
+  <code><img title="SASS" height="25" src="https://github.com/zyndly/zyndly/main/images/sass.svg"></code>
+  <code><img title="Git" height="25" src="https://github.com/zyndly/zyndly/main/images/git-original.svg"></code>
+  <code><img title="GitHub" height="25" src="https://github.com/zyndly/zyndly/main/images/github.svg"></code>
+  <code><img title=".NetCore" height="25" src="https://github.com/zyndly/zyndly/main/images/dotnetcore.svg"></code>
+  <code><img title="PostgreSQL" height="25" src="https://github.com/zyndly/zyndly/main/images/postgresql.svg"></code>
+  <code><img title="Visual Studio Code" height="25" src="https://github.com/zyndly/zyndly/main/images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/zyndly/main/master/images/visualstudio.png"></code>
 
 </p>
 <hr>

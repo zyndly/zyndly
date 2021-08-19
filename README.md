@@ -41,7 +41,7 @@ me.say_hi()
 <br>
 <p align="center">
   
-  <code><img title="C++" height="25" src="https://github.com/zyndly/zyndly/blob/main/mages/cpp.svg"></code>
+  <code><img title="C++" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/cpp.svg"></code>
   <code><img title="Python" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/python-original.svg"></code>
   <code><img title="Problem Solving" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/html5.svg"></code>
@@ -52,7 +52,7 @@ me.say_hi()
   <code><img title=".NetCore" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/dotnetcore.svg"></code>
   <code><img title="PostgreSQL" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/postgresql.svg"></code>
   <code><img title="Visual Studio Code" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/zyndly/blob/main/master/images/visualstudio.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/zyndly/blob/main/images/visualstudio.png"></code>
 
 </p>
 <hr>

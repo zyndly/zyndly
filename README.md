@@ -19,7 +19,7 @@ class aspiringSoftwareEngineer:
     def say_hi(self):
         print("I'm happy you pay a visit, I hope you like my works ")
 
-me = SoftwareEngineer()
+me = aspiringSoftwareEngineer()
 me.say_hi()
 ```
 

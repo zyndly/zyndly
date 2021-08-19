@@ -8,7 +8,7 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/zyndlyy/" title="LinkedIn Profile"><img width="22" src="https://github.com/zyndly/zyndly/main/images/linkedin.svg"> LinkedIn</a></code>
+    <a href="https://www.linkedin.com/in/zyndlyy/" title="LinkedIn Profile"><img width="22" src="https://github.com/zyndly/zyndly/blob/main/images/linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.instagram.com/zyndlyy/" title="Instagram Profile"><img width="22" src="https://github.com/zyndly/zyndly/main/images/instagram.svg"> Instagram</a></code>
   <code><a href="https://discord.link/codeandcoffee" title="Discord Profile"><img width="22" src="https://github.com/zyndly/zyndly/main/images/discord.svg"> Discord</a></code>
 </h5>
@@ -41,7 +41,7 @@ me.say_hi()
 <br>
 <p align="center">
   
-  <code><img title="C++" height="25" src="https://github.com/zyndly/zyndly/mainimages/cpp.svg"></code>
+  <code><img title="C++" height="25" src="https://github.com/zyndly/zyndly/blob/main/mages/cpp.svg"></code>
   <code><img title="Python" height="25" src="https://github.com/zyndly/zyndly/main/images/python-original.svg"></code>
   <code><img title="Problem Solving" height="25" src="https://github.com/zyndly/zyndly/main/images/problemSolving.png"></code>
   <code><img title="HTML5" height="25" src="https://github.com/zyndly/zyndly/main/images/html5.svg"></code>

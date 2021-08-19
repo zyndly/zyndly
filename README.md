@@ -8,9 +8,9 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/zyndlyy/" title="LinkedIn Profile"><img width="22" src="https://github.com/zyndly/zyndly/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="https://github.com/zyndly/zyndly/blob/master/images/instagram.svg"> Instagram</a></code>
-  <code><a href="https://discord.link/codeandcoffee" title="Discord Profile"><img width="22" src="https://github.com/zyndly/zyndly/blob/master/images/discord.svg"> Discord</a></code>
+    <a href="https://www.linkedin.com/in/zyndlyy/" title="LinkedIn Profile"><img width="22" src="https://github.com/zyndly/zyndly/master/images/linkedin.svg"> LinkedIn</a></code>
+  <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="https://github.com/zyndly/zyndly/master/images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://discord.link/codeandcoffee" title="Discord Profile"><img width="22" src="https://github.com/zyndly/zyndly/master/images/discord.svg"> Discord</a></code>
 </h5>
 
 
@@ -18,11 +18,11 @@
 #Always;AllWays
 
 
-class aspiringSoftwareEngineer:
+class aspiringDataScientist:
 
     def __init__(self):
         self.name = "Zyndly Kent"
-        self.role = "Software Engineer"
+        self.role = "Aspiring Data Scientist"
         self.hobby = "I love writing code and learn anythings about it"
         self.atm = "I’m currently learning Data Science :>"
         self.language_spoken = ["fil_PH", "en_US"]
@@ -30,7 +30,7 @@ class aspiringSoftwareEngineer:
     def say_hi(self):
         print("I'm happy you pay a visit, I hope you like my works ")
 
-me = aspiringSoftwareEngineer()
+me = aspiringDataScientist()
 me.say_hi()
 
 
@@ -41,18 +41,18 @@ me.say_hi()
 <br>
 <p align="center">
   
-  <code><img title="C++" height="25" src="https://github.com/zyndly/zyndly/blob/master/images/cpp.svg"></code>
-  <code><img title="Python" height="25" src="https://github.com/zyndly/zyndly/blob/master/images/python-original.svg"></code>
-  <code><img title="Problem Solving" height="25" src="https://github.com/zyndly/zyndly/blob/master/images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="https://github.com/zyndly/zyndly/blob/master/images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="https://github.com/zyndly/zyndly/blob/master/images/css.svg"></code>
-  <code><img title="SASS" height="25" src="https://github.com/zyndly/zyndly/blob/master/images/sass.svg"></code>
-  <code><img title="Git" height="25" src="https://github.com/zyndly/zyndly/blob/master/images/git-original.svg"></code>
-  <code><img title="GitHub" height="25" src="https://github.com/zyndly/zyndly/blob/master/images/github.svg"></code>
-  <code><img title=".NetCore" height="25" src="https://github.com/zyndly/zyndly/blob/master/images/dotnetcore.svg"></code>
+  <code><img title="C++" height="25" src="https://github.com/zyndly/zyndly/master/images/cpp.svg"></code>
+  <code><img title="Python" height="25" src="https://github.com/zyndly/zyndly/master/images/python-original.svg"></code>
+  <code><img title="Problem Solving" height="25" src="https://github.com/zyndly/zyndly/master/images/problemSolving.png"></code>
+  <code><img title="HTML5" height="25" src="https://github.com/zyndly/zyndly/master/images/html5.svg"></code>
+  <code><img title="CSS" height="25" src="https://github.com/zyndly/zyndly/master/images/css.svg"></code>
+  <code><img title="SASS" height="25" src="https://github.com/zyndly/zyndly/master/images/sass.svg"></code>
+  <code><img title="Git" height="25" src="https://github.com/zyndly/zyndly/master/images/git-original.svg"></code>
+  <code><img title="GitHub" height="25" src="https://github.com/zyndly/zyndly/master/images/github.svg"></code>
+  <code><img title=".NetCore" height="25" src="https://github.com/zyndly/zyndly/master/images/dotnetcore.svg"></code>
   <code><img title="PostgreSQL" height="25" src="https://github.com/zyndly/zyndly/master/images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="https://github.com/zyndly/zyndly/blob/master/images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/zyndly/zyndly/blob/master/images/visualstudio.png"></code>
+  <code><img title="Visual Studio Code" height="25" src="https://github.com/zyndly/zyndly/master/images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/zyndly/zyndly/master/images/visualstudio.png"></code>
 
 </p>
 <hr>
@@ -83,7 +83,3 @@ me.say_hi()
   <a href="https://github.com/zyndly?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
 
-
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=6aa6f8)
-![](https://img.shields.io/badge/Tools-VB.NET-informational?style=flat&logo=vb.net&logoColor=white&color=6aa6f8)

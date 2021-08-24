@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=7516F7&multiline=true&lines=Hi%2C+There!+%F0%9F%91%8B+I+am+ZYNDLY+BAJA....+;Thank+you+for+your+visit!&center=true&size=14">
+    <img src="https://readme-typing-svg.herokuapp.com/?color=7516F7&multiline=true&lines=Hi+There!+%F0%9F%91%8B+I+am+ZYNDLY+BAJA....+;Thank+you+for+your+visit!&center=true&size=15">
   </a>
 
 </h1>
@@ -33,7 +33,6 @@ class aspiringDataScientist:
 
 me = aspiringDataScientist()
 me.say_hi()
-
 
 ```
 

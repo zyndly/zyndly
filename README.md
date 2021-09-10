@@ -24,7 +24,7 @@ class aspiringDataScientist:
     def __init__(self):
         self.name = "Zyndly Kent"
         self.role = "Aspiring Data Scientist"
-        self.hobby = "I love writing code and learn anythings about it"
+        self.hobby = "I love writing code and learn things"
         self.atm = "I’m currently learning Data Science :>"
         self.language_spoken = ["fil_PH", "en_US"]
 

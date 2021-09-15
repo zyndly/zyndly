@@ -14,24 +14,23 @@
   <code><a href="https://discord.link/codeandcoffee" title="Discord Profile"><img width="22" src="https://github.com/zyndly/zyndly/blob/main/images/discord.svg"> Discord</a></code>
 </h5>
 
-
 ```python
 #Always;AllWays
 
 
-class aspiringDataScientist:
+class aspiringSoftwareEngineer:
 
     def __init__(self):
-        self.name = "Zyndly Kent"
-        self.role = "Aspiring Data Scientist"
+        self.name = "Zyndly Kent Baja"
+        self.role = "Aspiring Software Engineer"
         self.hobby = "I love writing code and learn things"
-        self.atm = "I’m currently learning Data Science :>"
+        self.atm = "I’m currently learning Django :>"
         self.language_spoken = ["fil_PH", "en_US"]
 
     def say_hi(self):
         print("I'm happy you pay a visit, I hope you like my works ")
 
-me = aspiringDataScientist()
+me = aspiringSoftwareEngineer()
 me.say_hi()
 
 ```
@@ -78,8 +77,6 @@ me.say_hi()
   <img src="https://activity-graph.herokuapp.com/graph?username=zyndly&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
 
-
 <h4 align="center">
   <a href="https://github.com/zyndly?tab=repositories" title="Show Repositories">🔎 Show More </a>
 </h4>
-

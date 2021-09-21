@@ -37,29 +37,25 @@ me.say_hi()
 ```
 
 <hr>
-<h2 align="center"> 🔧 Technologies & Tools </h2>
+  <h2 align="center"> 🔧 Technologies & Tools </h2>
 <br>
-<p align="center">
-  
-  <code><img title="C++" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/cpp.svg"></code>
-  <code><img title="Python" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/python-original.svg"></code>
-  <code><img title="Problem Solving" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/css.svg"></code>
-  <code><img title="SASS" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/sass.svg"></code>
-  <code><img title="Git" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/git-original.svg"></code>
-  <code><img title="GitHub" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/github.svg"></code>
-  <code><img title=".NetCore" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/dotnetcore.svg"></code>
-  <code><img title="PostgreSQL" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/postgresql.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/visualstudio.png"></code>
-
-</p>
+  <p align="center">
+    <div align="center">
+      <code><img title="C++" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/cpp.svg"></code>
+      <code><img title="Python" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/python-original.svg"></code>
+      <code><img title="Problem Solving" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/problemSolving.png"></code>
+      <code><img title="HTML5" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/html5.svg"></code>
+      <code><img title="CSS" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/css.svg"></code>
+      <code><img title="SASS" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/sass.svg"></code>
+      <code><img title="Git" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/git-original.svg"></code>
+      <code><img title="GitHub" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/github.svg"></code>
+      <code><img title=".NetCore" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/dotnetcore.svg"></code>
+      <code><img title="PostgreSQL" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/postgresql.svg"></code>
+      <code><img title="Visual Studio Code" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/vscode.png"></code>
+      <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/visualstudio.png"></code>
+    </div>
+  </p>
 <hr>
-<div align=center>
-
-  <iframe src="https://open.spotify.com/embed/playlist/3RGWEGhO1FoXu3mJCmcjgG" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
-</div>
 
 <h2 align="center"> 📈 Statistics </h2>
 <br>

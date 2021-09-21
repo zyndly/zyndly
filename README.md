@@ -56,7 +56,10 @@ me.say_hi()
 
 </p>
 <hr>
-<iframe src="https://open.spotify.com/embed/playlist/3RGWEGhO1FoXu3mJCmcjgG" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+<div align=center>
+
+  <iframe src="https://open.spotify.com/embed/playlist/3RGWEGhO1FoXu3mJCmcjgG" width="100%" height="380" frameBorder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+</div>
 
 <h2 align="center"> 📈 Statistics </h2>
 <br>

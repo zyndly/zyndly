@@ -19,7 +19,7 @@
 #Always;AllWays
 
 
-class aspiringSoftwareEngineer:
+class AspiringTambay:
 
     def __init__(self):
         self.name = "Zyndly Kent Baja"

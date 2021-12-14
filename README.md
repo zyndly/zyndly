@@ -25,7 +25,7 @@ class AspiringSoftwareEngineer:
         self.name = "Zyndly Kent Baja"
         self.role = "Aspiring Software Engineer"
         self.hobby = "I love writing code and learn things"
-        self.atm = "I’m currently learning Django :>"
+        self.atm = "I’m currently learning Next.js :>"
         self.language_spoken = ["fil_PH", "en_US"]
 
     def say_hi(self):
@@ -41,7 +41,6 @@ me.say_hi()
 <br>
   <p align="center">
     <div align="center">
-      <code><img title="C++" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/cpp.svg"></code>
       <code><img title="Python" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/python-original.svg"></code>
       <code><img title="Problem Solving" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/problemSolving.png"></code>
       <code><img title="HTML5" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/html5.svg"></code>
@@ -50,7 +49,6 @@ me.say_hi()
       <code><img title="Git" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/git-original.svg"></code>
       <code><img title="GitHub" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/github.svg"></code>
       <code><img title=".NetCore" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/dotnetcore.svg"></code>
-      <code><img title="PostgreSQL" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/postgresql.svg"></code>
       <code><img title="Visual Studio Code" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/vscode.png"></code>
       <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/visualstudio.png"></code>
     </div>

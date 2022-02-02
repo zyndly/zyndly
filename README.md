@@ -9,10 +9,9 @@
 
 <h5 align="center">
   <code>
-  <a href="https://twitter.com/AlwaysZyndly" title="Twitter Profile"><img width="22" src="https://github.com/zyndly/zyndly/blob/main/images/twitter.svg"> Twitter</a></code>
+  <a href="https://twitter.com/theonlyzyndly" title="Twitter Profile"><img width="22" src="https://github.com/zyndly/zyndly/blob/main/images/twitter.svg"> Twitter</a></code>
   <code><a href="https://www.instagram.com/zyndlyy/" title="Instagram Profile"><img width="22" src="https://github.com/zyndly/zyndly/blob/main/images/instagram.svg"> Instagram</a></code>
   <code><a href="https://www.linkedin.com/in/zyndlyy/" title="LinkedIn Profile"><img width="22" src="https://github.com/zyndly/zyndly/blob/main/images/linkedin.svg"> LinkedIn</a></code> 
-  <code code><a href="https://discord.link/codeandcoffee" title="Discord Profile"><img width="22" src="https://github.com/zyndly/zyndly/blob/main/images/discord.svg"> Discord</a></code>
 </h5>
 
 ```python
@@ -48,7 +47,6 @@ me.say_hi()
       <code><img title="SASS" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/sass.svg"></code>
       <code><img title="Git" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/git-original.svg"></code>
       <code><img title="GitHub" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/github.svg"></code>
-      <code><img title=".NetCore" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/dotnetcore.svg"></code>
       <code><img title="Visual Studio Code" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/vscode.png"></code>
       <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/visualstudio.png"></code>
     </div>

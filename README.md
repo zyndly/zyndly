@@ -24,7 +24,7 @@ class AspiringSoftwareEngineer:
         self.name = "Zyndly Kent Baja"
         self.role = "Aspiring Software Engineer"
         self.hobby = "I love writing code and learn things"
-        self.atm = "I’m currently learning Next.js :>"
+        self.atm = "I’m currently learning React JS :>"
         self.language_spoken = ["fil_PH", "en_US"]
 
     def say_hi(self):

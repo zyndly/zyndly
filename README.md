@@ -24,7 +24,7 @@ class Zyndly:
         self.name = "Zyndly Kent Baja"
         self.about = "A simple coffeeholic who fall in love diving into the amazing world of code
                       and data who also aims to encourage and inspire others to do the same."
-        self.atm = "I’m currently learning Data Engineering :>"
+        self.atm = "I’m currently learning Ruby on Rails :>"
         self.language_spoken = ["fil_PH", "en_US"]
 
     def say_hi(self):

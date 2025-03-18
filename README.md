@@ -8,8 +8,8 @@
 
 <h5 align="center">
   <a href="https://twitter.com/theonlyzyndly" title="Twitter Profile"><img width="22" src="https://github.com/zyndly/zyndly/blob/main/images/twitter.svg"> Twitter</a></code>
-  <code><a href="https://www.instagram.com/zyndlyy/" title="Instagram Profile"><img width="22" src="https://github.com/zyndly/zyndly/blob/main/images/instagram.svg"> Instagram</a></code>
-  <code><a href="https://www.linkedin.com/in/zyndlyy/" title="LinkedIn Profile"><img width="22" src="https://github.com/zyndly/zyndly/blob/main/images/linkedin.svg"> LinkedIn</a></code> 
+  <code><a href="https://www.instagram.com/_zyndly/" title="Instagram Profile"><img width="22" src="https://github.com/zyndly/zyndly/blob/main/images/instagram.svg"> Instagram</a></code>
+  <code><a href="https://www.linkedin.com/in/zyndly/" title="LinkedIn Profile"><img width="22" src="https://github.com/zyndly/zyndly/blob/main/images/linkedin.svg"> LinkedIn</a></code> 
 </h5>
 
 ```python

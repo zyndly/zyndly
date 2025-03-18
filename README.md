@@ -54,19 +54,15 @@ me.say_hi()
 <hr>
 
 <h2 align="center"> 📈 Statistics </h2>
-<br>
-<p align=center>
+<div align=center>
   
   <div align=center>
-    
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
       <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=zyndly&theme=react&border=61dafb&hide_border=true"/>
     </a>
-    
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=zyndly&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
-    
   </div>
   
   <div align=center>
@@ -74,7 +70,7 @@ me.say_hi()
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zyndly&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
-</p>
+</div>
 
 <h4 align="center">
   <a href="https://github.com/zyndly?tab=repositories" title="Show Repositories">🔎 Show More </a>

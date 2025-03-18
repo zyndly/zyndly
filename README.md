@@ -37,8 +37,6 @@ me.say_hi()
 
 <hr>
   <h2 align="center"> 🔧 Technologies & Tools </h2>
-<br>
-  <p align="center">
     <div align="center">
       <code><img title="Python" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/python-original.svg"></code>
       <code><img title="Problem Solving" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/problemSolving.png"></code>
@@ -50,9 +48,6 @@ me.say_hi()
       <code><img title="Visual Studio Code" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/vscode.png"></code>
       <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/visualstudio.png"></code>
     </div>
-  </p>
-
-<h2 align="center"> 📈 Statistics </h2>
   
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats"> 

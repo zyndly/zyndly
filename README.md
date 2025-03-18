@@ -5,11 +5,11 @@
     <img src="https://readme-typing-svg.herokuapp.com/?color=7516F7&multiline=true&lines=HI+%F0%9F%91%8B+;I+AM+ZYNDLY+KENT+BAJA....+;Thank+you+for+your+visit!&center=true&size=15">
   </a>
 </h1>
-
+<div align="center"
   <a href="https://twitter.com/theonlyzyndly" title="Twitter Profile"><img width="30" src="https://github.com/zyndly/zyndly/blob/main/images/twitter.svg">
   <a href="https://www.instagram.com/_zyndly/" title="Instagram Profile"><img width="30" src="https://github.com/zyndly/zyndly/blob/main/images/instagram.svg">
   <a href="https://www.linkedin.com/in/zyndly/" title="LinkedIn Profile"><img width="30" src="https://github.com/zyndly/zyndly/blob/main/images/linkedin.svg">
-
+</div>
 ```python
 #Always;AllWays
 

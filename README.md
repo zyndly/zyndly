@@ -1,14 +1,13 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=/zyndly/zyndly">
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?color=7516F7&multiline=true&lines=HI+%F0%9F%91%8B+;I+AM+ZYNDLY+KENT+BAJA....+;Thank+you+for+your+visit!&center=true&size=15">
-  </a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?color=7516F7&multiline=true&lines=HI+%F0%9F%91%8B+;I+AM+ZYNDLY+KENT+BAJA....+;Thank+you+for+your+visit!&center=true&size=15"></a>
+  <a href="https://twitter.com/theonlyzyndly" title="Twitter Profile"><img width="30" src="https://github.com/zyndly/zyndly/blob/main/images/twitter.svg">
+  <a href="https://www.instagram.com/_zyndly/" title="Instagram Profile"><img width="30" src="https://github.com/zyndly/zyndly/blob/main/images/instagram.svg">
+  <a href="https://www.linkedin.com/in/zyndly/" title="LinkedIn Profile"><img width="30" src="https://github.com/zyndly/zyndly/blob/main/images/linkedin.svg">
 </h1>
 <h1 align="center">
-  <a href="https://twitter.com/theonlyzyndly" title="Twitter Profile"><img width="22" src="https://github.com/zyndly/zyndly/blob/main/images/twitter.svg">
-  <a href="https://www.instagram.com/_zyndly/" title="Instagram Profile"><img width="22" src="https://github.com/zyndly/zyndly/blob/main/images/instagram.svg">
-  <a href="https://www.linkedin.com/in/zyndly/" title="LinkedIn Profile"><img width="22" src="https://github.com/zyndly/zyndly/blob/main/images/linkedin.svg">  
+  
 </h1>
 
 

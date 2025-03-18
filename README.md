@@ -51,14 +51,12 @@ me.say_hi()
       <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/visualstudio.png"></code>
     </div>
   </p>
-<hr>
 
 <h2 align="center"> 📈 Statistics </h2>
 <div align=center>
   
   <div align=center>
-    <a href="https://github.com/anuraghazra/github-readme-stats" 
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=zyndly&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+    <a href="https://github.com/anuraghazra/github-readme-stats" <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=zyndly&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=396 

@@ -57,13 +57,9 @@ me.say_hi()
 <br>
 <p align=center>
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=zyndly&theme=react&border=61dafb&hide_border=true" alt="zyndly" />
-    </a>
-    <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=zyndly&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
-    </a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=zyndly&theme=nightfox&hide_total_contributions=true&hide_current_streak=true&hide_longest_streak=true" alt="GitHub Streak" /></a>
   </div>
+  
   <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">

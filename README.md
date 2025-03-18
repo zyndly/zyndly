@@ -43,7 +43,6 @@ me.say_hi()
       <code><img title="Git" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/git-original.svg"></code>
       <code><img title="GitHub" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/github.svg"></code>
       <code><img title="Visual Studio Code" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/vscode.png"></code>
-      <code><img title="Microsoft Visual Studio" height="25" src="https://github.com/zyndly/zyndly/blob/main/images/visualstudio.png"></code>
     </div>
   
   <div align=center>

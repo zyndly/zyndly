@@ -57,9 +57,6 @@ me.say_hi()
 <div align=center>
   
   <div align=center>
-    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=zyndly&theme=react&border=61dafb&hide_border=true"/>
-    </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
       <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=zyndly&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>

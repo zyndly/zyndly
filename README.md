@@ -10,6 +10,7 @@
   <a href="https://www.instagram.com/_zyndly/" title="Instagram Profile"><img width="30" src="https://github.com/zyndly/zyndly/blob/main/images/instagram.svg">
   <a href="https://www.linkedin.com/in/zyndly/" title="LinkedIn Profile"><img width="30" src="https://github.com/zyndly/zyndly/blob/main/images/linkedin.svg">
 </div>
+    
 ```python
 #Always;AllWays
 
